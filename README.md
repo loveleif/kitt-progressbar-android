@@ -1,5 +1,7 @@
 Use this Android ProgressBar to fill all your users need for a Knight Rider related waiting experience.
 
+![The progress bar in action](http://i.imgur.com/HDkLpV9.gif)
+
 ### Usage
 
 **Step 1.** Add the following to your build file.
