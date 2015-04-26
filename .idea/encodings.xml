@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kittprogressbar/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kittprogressbar/src/main/java/se/leiflandia/kittprogressbar/KittDrawable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kittprogressbar/src/main/java/se/leiflandia/kittprogressbar/KittProgressBar.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sample/src/main/java/se/leiflandia/kittprogressbar/sample/MainActivity.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
