@@ -29,9 +29,9 @@ If maven is your thing:
 </repository>
 
 <dependency>
-  <groupId>com.github.User</groupId>
-  <artifactId>Repo name</artifactId>
-  <version>Release tag</version>
+  <groupId>com.github.peoplesbeer</groupId>
+  <artifactId>kitt-progressbar-android</artifactId>
+  <version>v0.0.1</version>
 </dependency>
 ```
 
